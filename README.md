@@ -16,6 +16,6 @@
 
 9 ) git branch -M main
 
-10 ) git remote add origin https://github.com/Vardhansai18/vardhan_proj
+10 ) git remote add origin https://github.com/Vardhansai18/vis_proj.git
 
 11 ) git push -u origin main
